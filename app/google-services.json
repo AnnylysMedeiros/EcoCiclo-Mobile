@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297469178496",
+    "project_id": "cashhub-58caa",
+    "storage_bucket": "cashhub-58caa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297469178496:android:5cb5848421a8b56889ec65",
+        "android_client_info": {
+          "package_name": "br.com.example.ecociclo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297469178496-n4sqr25976o4blitku2af658hqd6hnr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYc9QkyRWZ_PLAp0_VHtgHL7FsKD8djfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297469178496-n4sqr25976o4blitku2af658hqd6hnr9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

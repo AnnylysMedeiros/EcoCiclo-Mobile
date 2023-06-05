@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Eco Ciclo</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_dashboard">Meu Hub</string>
+    <string name="title_profile">Perfil</string>
+    <string name="title_premium">Assine o premium</string>
+</resources>
